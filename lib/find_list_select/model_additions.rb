@@ -1,3 +1,8 @@
+# This code is very similar to an already existing plugin!
+# I cannot remember where I stole it from ;(
+# If you are the original author, and wish to be listed as
+#  a contributor, please email me at demersus@gmail.com
+# I apologise for my theft
 module FindListSelect
 	module ModelAdditions
 
