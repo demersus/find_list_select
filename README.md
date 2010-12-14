@@ -32,6 +32,6 @@ Or for Rails 2 users:
 Contributors
 --------------------
 
-# Unknown
-# Nik Petersen (Demersus)
+ 1. Unknown
+ 2. Nik Petersen (Demersus)
 
