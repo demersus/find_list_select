@@ -26,4 +26,4 @@ module FindListSelect
 	end
 end
 
-ActiveRecord::Base.send :include, FindListSelect::ModelAdditions
+
